@@ -9,6 +9,7 @@ def fib(n):
 print(fib(6))  # 8
 print(fib(7))  # 13
 print(fib(8))  # 21
+print(fib(35))  # 9_227_465
 print(fib(50))  # 12_586_269_025
 
 
